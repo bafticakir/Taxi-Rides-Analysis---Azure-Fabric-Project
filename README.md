@@ -6,7 +6,6 @@ ractive visual reporting.
 ![10c5852d-0918-443d-9186-4268f370c046](https://github.com/user-attachments/assets/e8a3d273-e9b6-4eee-8676-868bb7eceef3)
 
 
-
 ## 📊 Objective
 
 To analyse taxi ride patterns over time, identifying trends in passenger volume by pickup datetime and presenting the results through clear, interactive charts using Microsoft Fabric tools.
